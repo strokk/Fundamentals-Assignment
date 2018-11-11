@@ -44,3 +44,7 @@ http://ashling.dbsdataprojects.com/sample-page/anscombes-quartet/
 https://rstudio-pubs-static.s3.amazonaws.com/52381_36ec82827e4b476fb968d9143aec7c4f.html
 
 https://plotlyblog.tumblr.com/post/68951620673/why-graph-anscombes-quartet
+
+https://seaborn.pydata.org/tutorial/regression.html
+
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.html
