@@ -17,11 +17,11 @@ Number|Description
 
   This assignment concerns an investigation on the Anscombe's quartet dataset, analyzing its statistical summary and plotting the necessary graphs for the study.
 
-  <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Anscombe%27s_quartet_3.svg" width=250px></p><br><p align="center">Anscombe's Quartet</p>
+  <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Anscombe%27s_quartet_3.svg" width=450px></p><br><p align="center">Anscombe's Quartet</p>
   
   I have used Jupyter notebook [1] to proceed with my investigation , and in case you require assistance installing and running Jupyter notebook to read this investigation, please follow the instructions on the reference link. [2]
 
-<p align="center"><img src="https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/jupyter_python_numpy.width-808.png" width=250px></p><br><p align="center">Jupyter, Python & NumPy</p>
+<p align="center"><img src="https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/jupyter_python_numpy.width-808.png" width=300px></p><br><p align="center">Jupyter, Python & NumPy</p>
 
 
 ----------------------------------------------------------------------------------------------------------------------------------
